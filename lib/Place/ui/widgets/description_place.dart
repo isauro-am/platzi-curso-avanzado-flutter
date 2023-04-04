@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'button_purple.dart';
+import '../../../widgets/button_purple.dart';
 
 class DescriptionPlace extends StatelessWidget {
 
